@@ -22,8 +22,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/spf13/pflag"
 	"github.com/yonomesh/cobra"
+	"github.com/yonomesh/pflag"
 	"go.yaml.in/yaml/v3"
 )
 
